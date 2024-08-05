@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "772445544742",
+    "firebase_url": "https://udara-85026-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "udara-85026",
+    "storage_bucket": "udara-85026.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:772445544742:android:65bacc5cdfe253f4a921e7",
+        "android_client_info": {
+          "package_name": "com.example.kualitasudara"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAISAqkqwxwUPXwjQFAXVCHUduBa-5I_hY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
